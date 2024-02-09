@@ -30,6 +30,6 @@ NumPy
 Matplotlib
 Seaborn
 Author
-Your Name
+Ankith H Poojary
 License
 This project is licensed under the MIT License.
